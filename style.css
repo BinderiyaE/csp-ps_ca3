@@ -1,6 +1,6 @@
 body {
   
-  /*changing Google Fonts and Font colours*/
+  /*  changing Google Fonts and Font colours   */
 
   font-family: "Sofia", sans-serif;
   font-size: 15px;
@@ -78,15 +78,24 @@ div {
   padding: 10px;
   margin-top: 0px;
   color: rgb(180, 180, 180);
-  text-decoration: none;
+  text-decoration:none;
 /*   border-bottom: 1px solid #dfe1e6; */
 }
 
 .add-card:hover {
-  background-color: rgba(9,30,66,.13);
+  background-color: rgba(248, 248, 212, 0.162);
 }
 
 .del {
   font-weight: 600;
-  color: rgb(215, 192, 248);
+  color: rgb(245, 10, 10);
+}
+
+/*icon design*/
+
+.fa-solid{
+    color:#000;
+    font-size: 20px;
+    position:solid;
+
 }
