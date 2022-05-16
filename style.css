@@ -41,7 +41,7 @@ div {
 
 .card {
   background: white;
-  border-bottom: 1px solid #aaa;
+  border-bottom: 1px solid rgb(18, 253, 253);
 }
 
 .list {
@@ -57,8 +57,8 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: rgba(0,0,0,.12);
-  color: hsla(0,0%,100%,.8);
+  background: rgba(192, 255, 169, 0.12);
+  color: rgba(36, 182, 249, 0.451);
 }
 
 .ghost {
