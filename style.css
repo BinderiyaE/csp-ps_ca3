@@ -1,6 +1,11 @@
 body {
-  font-family: sans-serif;
-  color: #1f078b;
+  
+  /*changing Google Fonts and Font colours*/
+
+  font-family: "Sofia", sans-serif;
+  font-size: 15px;
+  text-shadow: 3px 3px 3px #ababab;
+  color: #8a011ffb;
   background-color: #ceecfd;
   display: flex;
   align-items: start;
@@ -41,7 +46,7 @@ div {
 
 .card {
   background: white;
-  border-bottom: 1px solid rgb(18, 253, 253);
+  border-bottom: 1px solid rgb(0, 0, 0);
 }
 
 .list {
