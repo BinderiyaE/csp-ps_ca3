@@ -32,7 +32,7 @@ div {
 .editing {
   background: white;
   color: #172b4d !important;
-  box-shadow:inset 0px 0px 0px 2px #0279bf;
+  box-shadow:inset 0px 0px 0px 2px #afd2e7;
 }
 
 .editing:hover {
