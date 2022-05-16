@@ -96,6 +96,8 @@ div {
 .fa-solid{
     color:#000;
     font-size: 20px;
-    position:solid;
+    position:absolute;
+    top: 17px;
+    right: 25px;
 
 }
